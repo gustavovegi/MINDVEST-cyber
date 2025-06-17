@@ -1,2 +1,10 @@
 2025-06-15 19:50:43,400 - Novo usuário registrado: gustavo
 2025-06-15 21:35:21,756 - Tentativa de login falhou para usuário: gustavooooooo2
+2025-06-16 19:37:41,490 - Novo usuário registrado: luisa
+2025-06-16 19:37:46,824 - Senha incorreta para usuário: luisa
+2025-06-16 19:37:57,332 - Login bem-sucedido: luisa - Token: ee8284203d1d966b964e9ce91da789f9e60284c5ac2196df73b7d4f7b468198c
+2025-06-16 20:07:55,589 - Novo usuário registrado: Gabriel
+2025-06-16 20:08:04,807 - Login bem-sucedido: Gabriel - Token: a52e93a2a6d9bb6fd9174f2531a18cf52e5c074d8697365c4ee5f55625db2da9
+2025-06-16 20:30:25,305 - Novo usuário registrado: Gustavo
+2025-06-16 20:30:34,715 - Login bem-sucedido: Gustavo - Token: 75dadc5ccbbb2647cf34a5f6fa87f9e969f5f14647d920818976b0c8023421a2
+2025-06-16 20:30:48,435 - Senha incorreta para usuário: Gustavo
